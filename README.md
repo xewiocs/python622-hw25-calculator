@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A basic Python calculator application for performing arithmetic operations.
+An interactive command-line calculator application for performing arithmetic operations.
 
 ## Features
 
