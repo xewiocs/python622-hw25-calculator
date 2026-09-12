@@ -1,6 +1,6 @@
 # Simple Calculator
 
-An interactive command-line calculator application for performing arithmetic operations.
+A powerful interactive command-line calculator application for performing arithmetic operations.
 
 ## Features
 
